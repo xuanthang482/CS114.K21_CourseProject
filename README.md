@@ -1,5 +1,5 @@
 # CS114_CourseProject
-### BÀI TOÁN NHẬN DIỆN MỘT NGƯỜI CÓ ĐỘI MŨ BẢO HIỂM HAY KHÔNG
+### BÀI TOÁN NHẬN DIỆN NGƯỜI ĐỘI MŨ BẢO HIỂM 
 
 ## Mô tả bài toán
 
